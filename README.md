@@ -11,7 +11,7 @@ Instructions for building a low-priced (~$5) loudspeaker -- great physics projec
 
 ## Tips and Tricks
 
-* You'll need an amplifier to get much sound out. I used the [LP-2020A+](http://amzn.com/B0049P6OTI)
+* You'll need an amplifier to get much sound out (especially if demonstrating to an entire classroom). I used the [LP-2020A+](http://amzn.com/B0049P6OTI)
 * Watch out for abuse of hot glue
 * If their lid is attached, they'll need to cut it off
 * If the c clamps rattle, you can use some hot glue on them
